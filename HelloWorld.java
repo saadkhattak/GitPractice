@@ -1,6 +1,7 @@
 // This program will print Hello World
 class HelloWorld {
     public static void main(String[] args) {
+        //This commond will print Hello, World!
         System.out.println("Hello, World!"); 
     }
 }
